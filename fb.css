@@ -1,0 +1,148 @@
+.header{background-color: #3b5998;
+width: 100%; height: 85px;}
+body{margin: 0;
+font-family:helvetica Neue ,Arial, Helvetica, sans-serif ;}
+.logo{width:50%;padding-top: 32px; float: left;
+}
+.login{width: 50%;float: left;}
+.logo-text{color: #fff;
+    font-size: 35px;
+    font-weight: bold;
+    text-decoration: none;
+    font-family: helvetica Neue ,Arial, Helvetica, sans-serif;margin-left: 170px; 
+}
+.login-label{
+    color: #fff;
+    font-size: 11px;
+    
+}
+.login-controls{
+    margin-left: 115px;
+}
+.login{
+    padding-top: 10px;
+}
+.forgotten {
+    font-size: 11px;
+    text-decoration: none;
+    color: #9cb4d8;
+}
+.sub-btn{
+    background: #4267b2;
+    color:#fff;height: 20px;
+    border-color: #29487d;
+    cursor: pointer;
+}
+
+.sub-btn:hover{
+ background:lightseagreen;
+}
+.left-section{
+    width: 50%;
+    float: left;
+    padding-left: 134px;padding-top: 62px;
+}
+.create-account{
+    width: 39%;
+    float: left;
+    
+}
+.main-body{
+    background: linear-gradient(white,#D3D8E8);
+width: 100%;
+height: 500px;}
+.image{
+    width: 581px;
+}
+.para{
+    font-weight: bold;
+    font-size: 21px;
+}
+.create-account h2{
+    font-size: 30px;
+    font-weight: bold;margin-bottom: 10px;margin-top: 10px;
+}
+.create-account .free{
+    font-weight: bold;
+    font-size: 15px;
+    margin-top: 10px;
+    margin-bottom: 15px;
+}
+.account input[type='text']{
+
+    margin-bottom: 10px;
+    border-radius: 5px;
+    padding: 10px;
+    font-size: 16px;
+    border: 1px solid #bdc7d8;
+    
+
+}
+.account input[type='password']{
+margin-bottom: 2px;
+border-radius: 5px;
+padding: 10px;
+font-size: 16px;
+margin-left: 0px;
+width: 421px;
+border: 1px solid #bdc7d8;
+
+}
+.account .mobile.account .password    {
+  width: 84% !important;
+
+}
+.account label{
+    font-weight: bold;
+    font-size: 18px;
+    margin-bottom: 15px;
+}
+
+
+.account a{ 
+text-decoration: none;
+color: #3677bc;
+font-size: 12px;
+ }
+ .account input[type='radio']{
+margin-top: 20px;
+margin-bottom: 20px;
+font-size: 11px;
+text-decoration: none;
+
+
+ }
+ .account .by-clicking{
+     color: #77777a;
+     margin-top: 5px;
+     margin-bottom: 5px;
+     font-size: 15px;
+ }
+.account input[type='submit']{
+    padding: 15px 22px;
+    
+    border:1px solid #3b6e22;
+    border-radius: 5px;
+    font-size: 19px;
+    color: #fff;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    background: linear-gradient(#95d67c,#65a953);
+    width: 205px;
+    height: 50px;
+    text-align: center;
+    font-family: 'freight sans bold',Arial, Helvetica, sans-serif ;
+    font-weight: bold;
+    background-color: #69a74e;
+    cursor: pointer;
+    display: inline-block;
+    position: relative;
+    text-shadow: 0 1px 2px rgba(0,0, 0,.5);
+    border-color: #3b6e22 #3b6e22 #2c5115;
+    box-shadow: insert 0 1px 1px #a4e388;
+
+
+
+}
+
+
